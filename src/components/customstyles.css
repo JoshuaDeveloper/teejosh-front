@@ -1,0 +1,14 @@
+.p-panelmenu .p-panelmenu-header > a:focus {
+  box-shadow: none !important;
+}
+
+/* .p-panelmenu .p-panelmenu-header.p-highlight:not(.p-disabled) > a:hover {
+  border-color: transparent !important;
+  border: none !important;
+} */
+
+.p-panelmenu .p-panelmenu-header > a {
+  border: none !important;
+  background: transparent !important;
+  border-radius: none !important;
+}
